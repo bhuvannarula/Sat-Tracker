@@ -57,7 +57,7 @@ You can refer to celestrak.com to find orbit data
 
 How to Run:
 0. (optional) Activate Virtual Environment by 'conda activate {env_name}' (if created).
-1. Execute star-tracker.py file through terminal. GUI should open
+1. Execute sat-tracker.py file through terminal. GUI should open
 2. Then operate program GUI
 
 IMPORTANT NOTES
