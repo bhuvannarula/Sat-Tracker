@@ -9,6 +9,8 @@ Team Members (all from 1st Year):
     Ayush
     Suhana
 
+https://github.com/bhuvannarula/Sat-Tracker
+
 *PLEASE READ ALL NOTES BELOW TILL END BEFORE RUNNING PROGRAM*
 
 Requirements:

@@ -3,8 +3,12 @@ Project Sat-Tracker
 
 @team Celestial Observers
 @author Bhuvan Narula
-First Year, CSE
-IIT Mandi
+
+Team Members:
+    Bhuvan Narula
+    Ayush
+    Suhana
+First Year, IIT Mandi
 
 Author Notes:
 - lat, long used in comments is short notation for latitude, longitude
